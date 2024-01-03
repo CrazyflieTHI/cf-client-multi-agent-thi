@@ -1,0 +1,48 @@
+syntax: glob
+*.pyc
+*.pyc.*
+*~
+config.json
+dist/*
+build/*
+cache
+src/cfclient.egg-info/*
+src/cfclient/third_party/*
+version.json
+win32install/*.exe
+win32install/cfclient.nsi
+
+# Basestation config files
+bs_config.json
+
+# PC client settings
+conf/*
+
+# Eclipse settings
+.project
+.pydevproject
+.settings/*
+msvcp90.dll
+
+# PyCharm
+.idea/*
+.DS_Store
+
+# vscode
+.vscode/
+
+# Jykell files
+docs/.jekyll-metadata
+
+# chache
+./cache/*
+
+# Kde
+.directory
+
+# log files
+*.log
+*.dat
+
+# FreeRTOS dump
+*dump

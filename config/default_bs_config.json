@@ -1,0 +1,21 @@
+{
+    "main": {
+        "mode": "default",
+        "simulation": "False"
+    },
+    "interactiveMap": {
+        "setting": "Laboratory",
+        "width": 5,
+        "depth": 4
+    },
+    "crazyflies": {
+        "radio://0/80/2M/E7E7E7E701": 996028180225,
+        "radio://0/80/2M/E7E7E7E702": 996028180226,
+        "radio://0/80/2M/E7E7E7E703": 996028180227,
+        "radio://0/80/2M/E7E7E7E704": 996028180228,
+        "radio://0/80/2M/E7E7E7E705": 996028180229,
+        "radio://0/80/2M/E7E7E7E706": 996028180230,
+        "radio://0/80/2M/E7E7E7E707": 996028180231,
+        "radio://0/80/2M/E7E7E7E708": 996028180232
+    }
+}

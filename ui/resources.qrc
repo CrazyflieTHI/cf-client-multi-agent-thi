@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Pictures">
+    <file>Pictures/bled-on.png</file>
+    <file>Pictures/crazyflie_icon.png</file>
+    <file>Pictures/gled-on.png</file>
+    <file>Pictures/HochschuleAugsburgLogo.png</file>
+    <file>Pictures/rled-on.png</file>
+  </qresource>
+</RCC>
